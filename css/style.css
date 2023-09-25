@@ -97,12 +97,15 @@
 
 .bottom-right-title {
   position: absolute;
-  bottom: 65px;
+  bottom: 75px;
   right: 145px;
   color: white;
   text-align: end;
   font-weight: 500;
   font-size: 1.5rem;
+  background-color: rgba(0, 0, 0, .4);
+  padding: 5px;
+  border-radius: 5px;
 }
 
 .bottom-right-text {
@@ -111,5 +114,9 @@
   font-weight: 200;
   text-align: end;
   right: 145px;
-  top: 240px;
+  top: 230px;
+  margin-left: 5px;
+  background-color: rgba(0, 0, 0, .4);
+  padding: 5px;
+  border-radius: 5px;
 }
